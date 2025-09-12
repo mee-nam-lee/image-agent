@@ -1,4 +1,4 @@
-export GOOGLE_CLOUD_PROJECT="your-oroject-id"
+export GOOGLE_CLOUD_PROJECT="your-project-id"
 export GOOGLE_CLOUD_LOCATION="us-central1" # Example location
 export AGENT_PATH="./image_agent" 
 export SERVICE_NAME="image-agent-service"
